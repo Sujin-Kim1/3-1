@@ -1,0 +1,19 @@
+wget netapp.cs.kookmin.ac.kr 80 /web/member/palladio.JPG
+
+wget aaa.cs.kookmin.ac.kr 80 /aaa.html
+
+wget netapp.cs.kookmin.ac.kr 80 /aaa.html
+
+wget s3.amazonaws.com 80 /american-rivers-website/wp-content/uploads/2015/09/22182724/NW-rivers-threatened-by-Red-Flat-Systems_KenMorrish-header-713x629.jpg
+
+wget media1.santabanta.com 80 /full5/Miscellaneous/Good%20Morning/good-morning-58a.jpg
+
+wget www.lovesove.com 80 /cards/wp-content/uploads/2016/06/good-morning-buddy-wishes-lovesove.jpg
+
+wget netapp.cs.kookmin.ac.kr 80 /web/index.html
+
+wget netapp.cs.kookmin.ac.kr 80 /web/member/capotaormina.JPG
+
+wget jcci.kr 80 /data/JCCI%202017%20CFPv12.pdf
+
+
